@@ -1,0 +1,4 @@
+myblog
+======
+
+Here goes nothing...
